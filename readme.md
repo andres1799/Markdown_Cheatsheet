@@ -63,7 +63,7 @@ La imagenes pueden ser desde un enlace en la web o una direccion en un directori
 
 # Enfasis
 
-Para utilizar hacer enfasis usando *cursiva* o __negrita__ en un determinado texto se puede envolver el texto entre asteriscos (*) y guiones bajos (_)
+Para hacer enfasis usando *cursiva* o __negrita__ en un determinado texto se puede envolver el texto entre asteriscos (*) o guiones bajos (_)
 
     Ejemplos:
 
